@@ -1,11 +1,11 @@
 # Hangman-Game
-Game Rule is :
+Game Rules :
 
- 1.Press any key to get started!
+1.Press any key to get started!
 
 2. Wins: (# of times user guessed the word correctly).
 
-The words that I use for the game are fruit names(apple, mango, banana, strawberry, pineapple, orange)
+  The words that I use for the game are fruit names(apple, mango, banana, strawberry, pineapple, orange)
 
    * If the word is `madonna`, display it like this when the game starts: `_ _ _ _ _ _ _`.
 
