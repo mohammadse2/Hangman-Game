@@ -1,7 +1,7 @@
 # Hangman-Game
 Game Rule is :
 
-1.Press any key to get started!
+ 1.Press any key to get started!
 
 2. Wins: (# of times user guessed the word correctly).
 
